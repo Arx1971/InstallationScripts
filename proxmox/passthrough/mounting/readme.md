@@ -7,3 +7,5 @@
  - /media/share is root path
  - (mp=)/media/share destination path
  
+ # Pass throught to Vm 
+ https://pve.proxmox.com/wiki/Physical_disk_to_kvm
